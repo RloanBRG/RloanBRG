@@ -2,7 +2,7 @@ US:
 Hi, im a Brazilian guy who is on the way to get knowledge on how to code in some programing languages like Java or similar, 
 or how to create a website using HTML, CSS and JavaScript.
 
-Currently doing a Computing Engeneering Faculty some i may have more chance to get a job. :)
+Currently doing a Computing Engeneering Faculty so i may have more chance to get a job. :)
 
 
 BR:
